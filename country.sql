@@ -1,3 +1,9 @@
+# ************************************************************
+# country.sql
+# Love LzrBim
+# ************************************************************
+
+
 CREATE TABLE `country` (
   `countryID` int(5) NOT NULL AUTO_INCREMENT,
   `title` varchar(80) NOT NULL DEFAULT '',
